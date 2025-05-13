@@ -1,0 +1,10 @@
+﻿  main.cpp
+  ДЗ 8.h
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "void __cdecl deleteFirst(int * const,int &)" (?deleteFirst@@YAXQEAHAEAH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl deletePosition(int * const,int &,int)" (?deletePosition@@YAXQEAHAEAHH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl deleteCount(int * const,int &)" (?deleteCount@@YAXQEAHAEAH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl deleteEl(int * const,int &,int)" (?deleteEl@@YAXQEAHAEAHH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl addEl(int * const,int &,int,int)" (?addEl@@YAXQEAHAEAHHH@Z) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl deleteAr(int * &,int &)" (?deleteAr@@YAXAEAPEAHAEAH@Z) referenced in function main
+C:\Users\Maxym\Desktop\ДЗ 9\x64\Debug\ДЗ 8.exe : fatal error LNK1120: 6 unresolved externals
